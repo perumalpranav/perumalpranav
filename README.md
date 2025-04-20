@@ -5,7 +5,7 @@
 - 💻 I'm a developer currently at my desk, probably deep in code building my latest random idea 💡  
 - 🌐 Passionate about full stack development — whether it's web 🌍 or mobile 📱 — plus cloud infrastructure ☁️ and AI/ML 🤖  
 - 🛠️ I love working with **React**, **Node.js**, **Python**, and good ol' **Bash** 🐚  
-- 🎥 I run a YouTube channel where I take on random coding challenges — fair warning: I post *very* irregularly
+- 🎥 I run a YouTube channel where I take on random coding challenges — fair warning: I post irregularly
 - 🧠 Founder and sole developer of something exciting (coming soon) 👀  
 
 
