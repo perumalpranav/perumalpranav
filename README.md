@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-- 🧠 Founder and sole developer of **Panora News** available on AppStore and the PlayStore
+- 🧠 Founder and sole developer of **Panora News** (available on AppStore and the PlayStore)
 - 💻 I'm a developer currently at my desk, probably deep in code building my latest random idea 💡  
 - 🌐 Passionate about full stack development — whether it's web 🌍 or mobile 📱 — plus cloud infrastructure ☁️ and AI/ML 🤖  
 - 🛠️ I love working with **React**, **Node.js**, **Python**, and good ol' **Bash** 🐚  
